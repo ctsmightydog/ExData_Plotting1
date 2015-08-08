@@ -35,7 +35,6 @@ web site</a>:
 
 ## Loading the data
 
-
-## Download the above data to your working directory
-# Run the 4 separate R codes
-# 4 Separate png files will be created into your working directory.  These files will contain the plots of the assignment.
+Download the above data to your working directory
+Run the 4 separate R codes
+Four separate png files will be created into your working directory.  These files will contain the plots of the assignment.
